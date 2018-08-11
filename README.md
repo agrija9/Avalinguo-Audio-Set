@@ -1,5 +1,5 @@
-# Avalinguo-Audio-Set
-Avalinguo Audio Set: Dataset for Speaker Fluency Level Classification 
+# Avalinguo-Audio-Dataset
+Avalinguo Audio Dataset: Dataset for Speaker Fluency Level Classification 
 
 In this repository I will be maintaining and uploading the files of an audio set that I have been constructing over the past couple of months. 
 
