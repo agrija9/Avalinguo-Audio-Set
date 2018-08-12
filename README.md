@@ -1,7 +1,4 @@
-# Avalinguo-Audio-Dataset
-Avalinguo Audio Dataset: Dataset for Speaker Fluency Level Classification 
-
-# Avalinguo Audio Dataset: Dataset for Speaker Fluency Level Classification 
+# Avalinguo-Audio-Dataset: Dataset for Speaker Fluency Level Classification 
 
 [Download](#download) | [A peek inside](#a-peek-inside)
 
