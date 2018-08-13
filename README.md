@@ -49,7 +49,7 @@ The audios can also be individually downloaded in the **audio files** folder.
 
 Waveforms and mel-spectrograms of Avalinguo audio dataset recordings:
 
-![Waveforms and mel-spectrograms of ESC-10 dataset recordings](https://github.com/karoldvl/ESC-10/raw/master/ESC-10.png "Waveforms and mel-spectrograms of ESC-10 dataset recordings")
+![Testing GIF image](fluency-leves.gif)
 
 
 **Another repository with more detailed description about audio classification implementing ML techniques will be available in due course (paper attached).**
