@@ -1,0 +1,9 @@
+
+For audio classification based on ML techniques:
+
+- scikit-learn
+- Librosa
+- Keras/Tensorflow
+- Numpy
+- Pandas
+- Pydub
