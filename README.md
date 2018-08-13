@@ -47,11 +47,18 @@ The audios can also be individually downloaded in the **audio files** folder.
 
 ## Data exploring
 
-Waveforms and mel-spectrograms of Avalinguo audio dataset recordings:
+Logarithmic power spectrograms of audio frames from the dataset:
 
 ![](https://github.com/agrija9/Avalinguo-Audio-Set/blob/master/fluency-levels.gif)
 
+A useful Python module for doing audio analysis is called Librosa. With this module we can perform feature extraction on the audio clips (MFCCs, ZCR, RMSE, etc) to input the feature vectors into machine learning models and classify them.
 
-**Another repository with more detailed description about audio classification implementing ML techniques will be available in due course (paper attached).**
+Librosa also allows to plot audio spectrograms using its *display.specshow* function. The above three spectrograms correspond to the computed power spectrogram on a logarithmic scale for audios from the three fluency classes.
 
-The audioset is currently being maintained by reserachers from the Intelligent Systems Department at ITESM. If you want to contribute to this project feel free to reach me at apreciado42@uabc.edu.mx.
+**Another repository with more detailed description about audio classification implementing ML techniques will be available in due course (it will include a paper).**
+
+## Author
+
+Alan Preciado Grijalva
+
+The audioset is currently being maintained by me. If you want to contribute to this project feel free to reach me at apreciado42@uabc.edu.mx.
