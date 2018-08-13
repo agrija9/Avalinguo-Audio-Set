@@ -1,6 +1,6 @@
 # Avalinguo-Audio-Dataset: Dataset for Speaker Fluency Level Classification 
 
-[Download](#download) | [Data exploring](#Data exploring)
+[Download](#download) | [Data exploring](#data-exploring)
 
 The **Avalinguo Audio Dataset** is a labeled collection of 1424 audio recordings of non-native English speaking persons. 
 
@@ -42,7 +42,7 @@ The dataset can be downloaded as three separate .tar.gz files corresponding to e
 [Download Avalinguo Intermediate Fluency Audios](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-intermediate-fluency.tar.gz) (28 MB)
 [Download Avalinguo Low High Audios](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-high-fluency.tar.gz) (98 MB)
 
-The audios can also be individually downloaded in the audio files folder.
+The audios can also be individually downloaded in the **audio files** folder.
 
 
 ## Data exploring
