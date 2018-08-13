@@ -36,9 +36,14 @@ Clips have been manually gathered from three sources:
 
 
 ## Download
-The dataset can be downloaded as three separate .zip files corresponding to each fluency class (~150 MB total):
+The dataset can be downloaded as three separate .tar.gz files corresponding to each fluency class (~150 MB total):
 
-[Download Avalinguo Audio Dataset](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-high-fluency.tar.gz)
+[Download Avalinguo Low Fluency Audios](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-low-fluency.tar.gz) (22 MB)
+[Download Avalinguo Intermediate Fluency Audios](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-intermediate-fluency.tar.gz) (28 MB)
+[Download Avalinguo Low High Audios](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-high-fluency.tar.gz) (98 MB)
+
+The audios can also be individually downloaded in the audio files folder.
+
 
 ## A peek inside
 
@@ -47,6 +52,6 @@ Waveforms and mel-spectrograms of Avalinguo audio dataset recordings:
 ![Waveforms and mel-spectrograms of ESC-10 dataset recordings](https://github.com/karoldvl/ESC-10/raw/master/ESC-10.png "Waveforms and mel-spectrograms of ESC-10 dataset recordings")
 
 
-A paper and a side repository with more detailed description about audio classification will be available in due course.
+**Another repository with more detailed description about audio classification implementing ML techniques will be available in due course (paper attached).**
 
-The audioset is currently growing in size and is being maintained by reserachers from the Intelligent Systems Department at ITESM. If you want to contribute to this project feel free to reach me at apreciado42@uabc.edu.mx.
+The audioset is currently being maintained by reserachers from the Intelligent Systems Department at ITESM. If you want to contribute to this project feel free to reach me at apreciado42@uabc.edu.mx.
