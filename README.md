@@ -49,7 +49,7 @@ The audios can also be individually downloaded in the **audio files** folder.
 
 Waveforms and mel-spectrograms of Avalinguo audio dataset recordings:
 
-![Testing GIF image](fluency-leves.gif)
+![](https://github.com/agrija9/Avalinguo-Audio-Set/blob/master/fluency-levels.gif)
 
 
 **Another repository with more detailed description about audio classification implementing ML techniques will be available in due course (paper attached).**
