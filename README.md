@@ -1,6 +1,6 @@
 # Avalinguo-Audio-Dataset: Dataset for Speaker Fluency Level Classification 
 
-[Download](#download) | [A peek inside](#a-peek-inside)
+[Download](#download) | [Data exploring](#Data exploring)
 
 The **Avalinguo Audio Dataset** is a labeled collection of 1424 audio recordings of non-native English speaking persons. 
 
@@ -45,7 +45,7 @@ The dataset can be downloaded as three separate .tar.gz files corresponding to e
 The audios can also be individually downloaded in the audio files folder.
 
 
-## A peek inside
+## Data exploring
 
 Waveforms and mel-spectrograms of Avalinguo audio dataset recordings:
 
