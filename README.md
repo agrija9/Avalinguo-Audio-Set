@@ -38,7 +38,7 @@ Clips have been manually gathered from three sources:
 ## Download
 The dataset can be downloaded as three separate .zip files corresponding to each fluency class (~150 MB total):
 
-[Avalinguo Audio Dataset](https://github.com/karoldvl/ESC-10/archive/master.zip)
+[Download Avalinguo Audio Dataset](https://github.com/agrija9/Avalinguo-Audio-Set/tree/master/meta/tar-high-fluency.tar.gz)
 
 ## A peek inside
 
